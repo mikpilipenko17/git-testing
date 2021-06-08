@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: rgb(0, 122, 204);
+    text-transform: uppercase;
+}
+
+
+@media(max-width:320px){
+    h1{
+        color: red;
+        display: none;
+    }
+}
+
